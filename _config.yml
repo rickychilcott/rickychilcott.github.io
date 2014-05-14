@@ -1,0 +1,12 @@
+# Site settings
+title: Ricky Chilcott
+email: ricky@rickychilcott.com
+description: "This is an awesome description"
+baseurl: ""
+url: "http://rickychilcott.com"
+github_username: rickychilcott
+twitter_username: rickychilcott
+
+# Build settings
+markdown: kramdown
+permalink: pretty
