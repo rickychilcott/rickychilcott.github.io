@@ -3,6 +3,7 @@ layout: post
 title: "Adding a User in Mac OS X Snow Leopard via Command Line"
 author: "Ricky"
 tags: [OSX, command line, management]
+header-img: "img/home-bg.jpg"
 ---
 
 Sometimes, it's nice to add local users to a computer via a script or the command line via ARD instead of the GUI.  In the middle of the quarter, I needed to add a local user to each computer in our lab that would have no password and be a standard user.  The reason is because we had some problems with Logic and our Network Home Setup -- something I'd like to post about later.  I did some searching around and found some code that worked in Leopard, but not Snow Leopard.  DSCL's (Directory Service's Command Line) syntax changed slightly in Snow Leopard, so I had to modify it to do what I wanted.

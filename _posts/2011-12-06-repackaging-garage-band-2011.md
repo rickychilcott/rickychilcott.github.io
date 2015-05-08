@@ -3,6 +3,7 @@ layout: post
 title: "Repackaging Garage Band 2011"
 author: "Ricky"
 tags: [OSX, iLife, management, munki]
+header-img: "img/home-bg.jpg"
 ---
 
 This Winter Break, some colleagues and I at Ohio University decided to embark on a completely modular workflow for faculty/lab/staff machines.  We know that this will be a time consuming, tedious process, but totally worth it.  This will _ultimately_ save us time and allow our Munki/MunkiServer environment to be utilized to it's fullest.
