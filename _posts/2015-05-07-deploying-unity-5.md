@@ -7,6 +7,8 @@ tags: [OSX, management, unity]
 header-img: "img/home-bg.jpg"
 ---
 
+*Note: You should also read the [Unity 5 Security Concerns]({% post_url 2015-05-07-deploying-unity-5 %})*
+
 The Scripps College of Communication teaches Unity for game development.  Over the past few years, we've been able to download the Unity from their website and easily deploy via munki.  Largely, there was no changes that needed to happen to the package, because the metapackage contained all the needed compontents.  Since moving to Unity 5, however, Unity has change the way they deploy the software.
 
 When you download Unity, you now download a small .app called ```Unity Download Assistant.app```. This app is pretty tiny (less than 3 MB) but only contains a set of scripts that will download and install the packages.  Unfortunately, the scripts are not exposed within the Unity Download Assistant, so I needed to reverse engineer the installation process.  This blog post shares the coded needed to do so.
