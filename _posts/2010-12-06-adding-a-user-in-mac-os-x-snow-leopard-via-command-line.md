@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adding a User in Mac OS X Snow Leopard via Command Line"
-category: 
+author: "Ricky"
 tags: [OSX, command line, management]
 ---
 

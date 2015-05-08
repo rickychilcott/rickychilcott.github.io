@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Repackaging Garage Band 2011"
-category: 
+author: "Ricky"
 tags: [OSX, iLife, management, munki]
 ---
 

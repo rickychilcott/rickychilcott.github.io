@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forcing Mac OS X Updates"
-category: 
+author: "Ricky"
 tags: [OSX, management, munki]
 ---
 
